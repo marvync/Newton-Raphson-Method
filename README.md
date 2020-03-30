@@ -62,13 +62,10 @@ def NewRaph(f, x0, ϵ=1e-3, Nmax=100):
     return None
 ```
 
-
 ```python
 f = x**3 - x**2 - 1
 NewRaph(f, x0=1)
 ```
-
     Found solution after 5 iterations.
-
-
+    
     1.4655713749070918
