@@ -10,7 +10,7 @@ from sympy import symbols, diff, lambdify
 
 
 ```python
-x, y, z = symbols('x y z')
+x = symbols('x')
 ```
 
 
