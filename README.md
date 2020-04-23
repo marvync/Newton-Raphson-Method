@@ -44,7 +44,7 @@ def NewRaph(f, x0, ϵ=1e-3, Nmax=100):
     f = x**3 - x**2 - 1
     NewRaph(f, x0=1)
     Found solution after 6 iterations.
-    1.4655712318767877
+    1.4655713749070918
     '''
     xn = x0
     df = diff(f,x)
