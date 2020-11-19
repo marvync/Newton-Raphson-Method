@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1280"
-   height="250"
-   viewBox="0 0 338.66666 66.145835"
+   height="160.22525"
+   viewBox="0 0 338.66666 42.392932"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -43,7 +43,7 @@
        x2="338.66666"
        y2="277.211"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.6703809,0,-199.10311)" />
+       gradientTransform="matrix(1,0,0,1.6703809,0,-192.69566)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59566839"
-     inkscape:cx="463.74481"
-     inkscape:cy="-2.6331361"
+     inkscape:zoom="0.74743396"
+     inkscape:cx="640"
+     inkscape:cy="59.44237"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,10 +65,16 @@
      inkscape:snap-object-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid857" />
+       id="grid857"
+       originx="0"
+       originy="-17.345457" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -78,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,30 +92,30 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-230.85413)">
+     transform="translate(0,-237.26158)">
     <rect
-       style="opacity:0.5;fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:0.5;fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:0.08007788;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect863"
        width="338.66666"
-       height="66.110184"
+       height="42.392929"
        x="0"
-       y="230.88979"
+       y="237.26158"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.04513359px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:#bdbdbd;stroke-width:0.10000004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       x="6.8454967"
-       y="258.99158"
+       x="21.526968"
+       y="261.74774"
        id="text855"
        transform="scale(0.98626089,1.0139305)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan853"
-         x="6.8454967"
-         y="258.99158"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10000004;stroke-miterlimit:4;stroke-dasharray:none">Newton-Raphson Method</tspan></text>
+         x="21.526968"
+         y="261.74774"
+         style="font-size:26.45833397px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10000004;stroke-miterlimit:4;stroke-dasharray:none">Newton-Raphson Method</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.3;fill:#197ea1;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
@@ -123,24 +129,5 @@
          x="237.46745"
          y="287.33521"
          style="stroke-width:0.1" /></text>
-    <text
-       inkscape:export-ydpi="96"
-       inkscape:export-xdpi="96"
-       transform="scale(0.98808809,1.0120555)"
-       id="text879"
-       y="285.08478"
-       x="168.14455"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.86184406px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:#bdbdbd;stroke-width:0.10000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       xml:space="preserve"><tspan
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10000002;stroke-miterlimit:4;stroke-dasharray:none"
-         y="285.08478"
-         x="168.14455"
-         id="tspan877"
-         sodipodi:role="line">https://github.com/marvync</tspan><tspan
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10000002;stroke-miterlimit:4;stroke-dasharray:none"
-         y="302.41208"
-         x="168.14455"
-         sodipodi:role="line"
-         id="tspan881" /></text>
   </g>
 </svg>
